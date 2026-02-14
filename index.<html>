@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Para Mi Niña Hermosa ❤️</title>
+
+<style>
+body{
+  background: linear-gradient(black,#1a001a);
+  color:white;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  height:100vh;
+  font-family:Arial;
+  text-align:center;
+}
+
+.carta{
+  max-width:420px;
+}
+
+.corazon{
+  font-size:70px;
+  color:#ff4da6;
+  animation:latir 1.2s infinite;
+}
+
+@keyframes latir{
+  0%{transform:scale(1);}
+  50%{transform:scale(1.2);}
+  100%{transform:scale(1);}
+}
+
+iframe{
+  margin-top:20px;
+  border-radius:12px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="carta">
+<div class="corazon">💗</div>
+
+<h2>Para Mi Niña Hermosa</h2>
+
+<p>
+De parte de tu niño tikito🥺💗💗💗<br><br>
+Te amooooo muchísimo de aquí hasta la luna a pas
+  
